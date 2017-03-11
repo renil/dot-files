@@ -23,6 +23,10 @@ indent_size = 4
 trim_trailing_whitespace = true
 insert_final_newline = true
 
+# html files
+[*.html]
+indent_size = 2
+
 # Markdown files
 [*.md]
 indent_size = 4
